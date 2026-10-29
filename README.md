@@ -51,6 +51,7 @@ This repository showcases my hands-on projects in **Excel, SQL, and Power BI**, 
 
 ## 📬 Contact
 - **Name:**  Y Sahithi Reddy
+- **Email:** sahithiyata217@gmail.com
 - **Role:** Btech 3rd year student  
 - **Location:** India  
 
