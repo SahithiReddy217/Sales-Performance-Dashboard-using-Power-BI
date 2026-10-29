@@ -1,4 +1,4 @@
-# 👩‍💻 Data Analyst Portfolio – Nandini
+# 👩‍💻 Data Analyst Portfolio - Y Sahithi Reddy
 
 Welcome to my data analytics portfolio.  
 This repository showcases my hands-on projects in **Excel, SQL, and Power BI**, focused on deriving business insights from real-world datasets.
@@ -50,11 +50,8 @@ This repository showcases my hands-on projects in **Excel, SQL, and Power BI**, 
 ---
 
 ## 📬 Contact
-- **Name:** Nandini  
-- **Role:** Aspiring Data Analyst  
+- **Name:**  Y Sahithi Reddy
+- **Role:** Btech 3rd year student  
 - **Location:** India  
-- **LinkedIn:** *www.linkedin.com/in/
-nandinibabu-analytics
-*  
 
 ⭐ Thank you for visiting my portfolio!
